@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.challenge.xcale.cart.application.service.CartServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-01T06:10:24" hostname="CLFTCC02C91SQLVDD.local" time="1.145">
+  <properties/>
+  <testcase name="Fail case test because of bad idCart" classname="com.challenge.xcale.cart.application.service.CartServiceTest" time="1.145"/>
+  <system-out><![CDATA[Id of the cart is invalid!
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/rcedenor/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.8/ae6ebe485f3bcd0a1e20241488a32e6400a501ef/byte-buddy-agent-1.14.8.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+oct 01, 2023 3:10:25 A. M. com.challenge.xcale.cart.application.service.CartService addProductsToCart
+INFO: En el metodo addProductsToCart se recibe un ID de carrito que se valida
+]]></system-err>
+</testsuite>
